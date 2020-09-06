@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-from main import main
+
 import unittest
+from main import main
 
 class TestCase(unittest.TestCase):
     def test_main(self):
